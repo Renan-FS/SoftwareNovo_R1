@@ -9,7 +9,7 @@ import br.com.fiap.bean.ContaCorrente;
 import br.com.fiap.bean.ContaPoupanca;
 import br.com.fiap.bean.TipoConta;
 
-public class Teste {
+public class Teste2 {
 	
 	public static void main(String[] args) {
 		
@@ -27,6 +27,9 @@ public class Teste {
 		
 		for(ContaCorrente conta : listaaa)
 			System.out.println(conta.getSaldo());
+		
+		
+		
 	}
 
 }
